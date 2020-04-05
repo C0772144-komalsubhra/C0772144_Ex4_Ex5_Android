@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">C0772144_Ex4</string>
+    <string-array name="title_array">
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Ms.</item>
+        <item>Dr.</item>
+        <item>Sir</item>
+        <item>Lord</item>
+    </string-array>
+    <string-array name="designation_array">
+    <item>Mechanical Engineer</item>
+    <item>Electrical Engineer</item>
+    <item>Software Manager</item>
+    <item>Support</item>
+    <item>Design</item>
+    <item>Testing</item>
+    </string-array>
+</resources>
